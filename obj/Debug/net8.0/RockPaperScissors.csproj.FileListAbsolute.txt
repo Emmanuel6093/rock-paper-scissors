@@ -1,0 +1,14 @@
+/Users/emmanue/Desktop/GPTProjectExercises/RockPaperScissors/bin/Debug/net8.0/RockPaperScissors
+/Users/emmanue/Desktop/GPTProjectExercises/RockPaperScissors/bin/Debug/net8.0/RockPaperScissors.deps.json
+/Users/emmanue/Desktop/GPTProjectExercises/RockPaperScissors/bin/Debug/net8.0/RockPaperScissors.runtimeconfig.json
+/Users/emmanue/Desktop/GPTProjectExercises/RockPaperScissors/bin/Debug/net8.0/RockPaperScissors.dll
+/Users/emmanue/Desktop/GPTProjectExercises/RockPaperScissors/bin/Debug/net8.0/RockPaperScissors.pdb
+/Users/emmanue/Desktop/GPTProjectExercises/RockPaperScissors/obj/Debug/net8.0/RockPaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emmanue/Desktop/GPTProjectExercises/RockPaperScissors/obj/Debug/net8.0/RockPaperScissors.AssemblyInfoInputs.cache
+/Users/emmanue/Desktop/GPTProjectExercises/RockPaperScissors/obj/Debug/net8.0/RockPaperScissors.AssemblyInfo.cs
+/Users/emmanue/Desktop/GPTProjectExercises/RockPaperScissors/obj/Debug/net8.0/RockPaperScissors.csproj.CoreCompileInputs.cache
+/Users/emmanue/Desktop/GPTProjectExercises/RockPaperScissors/obj/Debug/net8.0/RockPaperScissors.dll
+/Users/emmanue/Desktop/GPTProjectExercises/RockPaperScissors/obj/Debug/net8.0/refint/RockPaperScissors.dll
+/Users/emmanue/Desktop/GPTProjectExercises/RockPaperScissors/obj/Debug/net8.0/RockPaperScissors.pdb
+/Users/emmanue/Desktop/GPTProjectExercises/RockPaperScissors/obj/Debug/net8.0/RockPaperScissors.genruntimeconfig.cache
+/Users/emmanue/Desktop/GPTProjectExercises/RockPaperScissors/obj/Debug/net8.0/ref/RockPaperScissors.dll
